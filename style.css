@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    font-family:'Do Hyeon', sans-serif;
+}
+
+div{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    display: inline-block;
+}
+
+img{
+    height: 70%;
+}
+
